@@ -1,0 +1,7 @@
+Imie: Wojciech Nazwisko: Papiez
+Numer legitymacji: 43423
+Ocena z fizyki: 5
+Ocena z analizy: 4
+Ocena z informatyki: 4
+Ocena z algebry: 4
+Ocena z angielskiego: 4

@@ -1,0 +1,2 @@
+Do prawidłowego działania niezbędny jest plik bazaStudentow.txt.
+Program umożliwia odczyt, zapis, modyfikację studentów oraz ich ocen, a także przeszukiwanie bazy w poszukiwaniu błędów.
